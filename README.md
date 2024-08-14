@@ -10,13 +10,13 @@ The design is based off the following logic:
 **4:1 Mux Simulation results for given testbench inputs:**
 
 1.	A = 1, B = 0, C = 0, D = 0, SEL = 00, Y = 1
-![image](https://github.com/user-attachments/assets/cff0d2bb-e5bf-44dc-b8c0-e68ff35613d1)
+![4to1_1](https://github.com/user-attachments/assets/02b27116-b976-4587-a199-7bc973324db2)
 
 2.	A = 0, B = 1, C = 0, D = 0, SEL = 01, Y = 1
-![image](https://github.com/user-attachments/assets/d6a864fe-8613-478c-aec0-de767ee0b2c7)
+![4to1_2](https://github.com/user-attachments/assets/639e17c7-25d1-406f-bf1c-85a1a965803d)
 
 3.	A = 0, B = 0, C = 1, D = 0, SEL = 10, Y = 1
-![image](https://github.com/user-attachments/assets/5ce8b3a0-064b-4425-b938-fccc52b080de)
+![4to1_3](https://github.com/user-attachments/assets/22bc4951-8e53-4b7f-a168-6453536135ce)
 
 4.	A = 0, B = 0, C = 0, D = 1, SEL = 11, Y = 1
-![image](https://github.com/user-attachments/assets/ce1a79dd-d85b-42b6-98c9-01941973efa2)
+![4to1_4](https://github.com/user-attachments/assets/9b04d0e1-d17d-4597-ab0b-724b115a3014)
