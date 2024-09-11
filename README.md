@@ -1,7 +1,7 @@
 # mux_4to1
 This repo contains Verilog design and testbench files for a 4:1 multiplexer using three 2:1 multiplexers targetted for Zync Zedboard:
 
-![image](https://github.com/user-attachments/assets/75dbdf30-fbdd-45c3-8dfe-8f9a249b5308)
+<img width="471" alt="image" src="https://github.com/user-attachments/assets/75dbdf30-fbdd-45c3-8dfe-8f9a249b5308">
 
 The design is based off the following logic:
 
